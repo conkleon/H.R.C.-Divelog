@@ -1,12 +1,12 @@
 import type { DefaultSeoProps } from "next-seo";
 
 const config: DefaultSeoProps = {
-  titleTemplate: "%s | Diveholic - dive log built for the modern age",
+  titleTemplate: "%s | H.R.C. Divelog",
   openGraph: {
     type: "website",
     locale: "en_EN",
-    url: "https://diveholic.netlify.app",
-    siteName: "Diveholic"
+    url: "https://divelog.hrclifeguards.org",
+    siteName: "H.R.C. Divelog"
   }
 };
 

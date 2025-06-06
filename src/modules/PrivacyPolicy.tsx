@@ -10,14 +10,14 @@ const PrivacyPolicy: React.FC = () => (
   <Container component="main" sx={{ py: 10, px: 4 }} maxWidth="md">
     <Box display="flex" alignItems="center" justifyContent="center" gap={1.2}>
       <Image
-        src="/logo.svg"
+        src="/logo.png"
         width={48}
         height={34}
         layout="fixed"
         alt="Diver down flag"
       />
       <Typography level="h3" component="p" fontWeight="lg">
-        Diveholic
+        H.R.C. Divelog
       </Typography>
     </Box>
 
@@ -29,7 +29,7 @@ const PrivacyPolicy: React.FC = () => (
       mb={3}
       textAlign="center"
     >
-      Dive log built for the modern age
+          Σύστημα καταγραφής καταδύσεων της Σχολής Αυτοδυτών Ε.Ε.Σ.
     </Typography>
 
     <BackButton to="/" />
@@ -41,26 +41,13 @@ const PrivacyPolicy: React.FC = () => (
       startDecorator={<SecurityRounded />}
       sx={{ alignItems: "flex-start" }}
     >
-      Privacy Policy for Diveholic
+      Privacy Policy for H.R.C. Divelog
     </Typography>
 
-    <p>
-      At Diveholic, accessible from https://diveholic.netlify.app, one of our
-      main priorities is the privacy of our visitors. This Privacy Policy
-      document contains types of information that is collected and recorded by
-      Diveholic and how we use it.
-    </p>
 
     <p>
       If you have additional questions or require more information about our
       Privacy Policy, do not hesitate to contact us.
-    </p>
-
-    <p>
-      This Privacy Policy applies only to our online activities and is valid for
-      visitors to our website with regards to the information that they shared
-      and/or collect in Diveholic. This policy is not applicable to any
-      information collected offline or via channels other than this website.
     </p>
 
     <Typography level="h5" component="h2">
@@ -119,7 +106,7 @@ const PrivacyPolicy: React.FC = () => (
     </Typography>
 
     <p>
-      Diveholic follows a standard procedure of using log files. These files log
+      H.R.C. Divelog follows a standard procedure of using log files. These files log
       visitors when they visit websites. All hosting companies do this and a
       part of hosting services' analytics. The information collected by log
       files include internet protocol (IP) addresses, browser type, Internet
@@ -135,7 +122,7 @@ const PrivacyPolicy: React.FC = () => (
     </Typography>
 
     <p>
-      Like any other website, Diveholic uses 'cookies'. These cookies are used
+      Like any other website, H.R.C. Divelog uses 'cookies'. These cookies are used
       to store information including visitors' preferences, and the pages on the
       website that the visitor accessed or visited. The information is used to
       optimize the users' experience by customizing our web page content based
@@ -148,13 +135,13 @@ const PrivacyPolicy: React.FC = () => (
 
     <p>
       You may consult this list to find the Privacy Policy for each of the
-      advertising partners of Diveholic.
+      advertising partners of H.R.C. Divelog.
     </p>
 
     <p>
       Third-party ad servers or ad networks uses technologies like cookies,
       JavaScript, or Web Beacons that are used in their respective
-      advertisements and links that appear on Diveholic, which are sent directly
+      advertisements and links that appear on H.R.C. Divelog, which are sent directly
       to users' browser. They automatically receive your IP address when this
       occurs. These technologies are used to measure the effectiveness of their
       advertising campaigns and/or to personalize the advertising content that
@@ -162,7 +149,7 @@ const PrivacyPolicy: React.FC = () => (
     </p>
 
     <p>
-      Note that Diveholic has no access to or control over these cookies that
+      Note that H.R.C. Divelog has no access to or control over these cookies that
       are used by third-party advertisers.
     </p>
 
@@ -170,13 +157,6 @@ const PrivacyPolicy: React.FC = () => (
       Third Party Privacy Policies
     </Typography>
 
-    <p>
-      Diveholic's Privacy Policy does not apply to other advertisers or
-      websites. Thus, we are advising you to consult the respective Privacy
-      Policies of these third-party ad servers for more detailed information. It
-      may include their practices and instructions about how to opt-out of
-      certain options.{" "}
-    </p>
 
     <p>
       You can choose to disable cookies through your individual browser options.
@@ -259,13 +239,6 @@ const PrivacyPolicy: React.FC = () => (
       in, and/or monitor and guide their online activity.
     </p>
 
-    <p>
-      Diveholic does not knowingly collect any Personal Identifiable Information
-      from children under the age of 13. If you think that your child provided
-      this kind of information on our website, we strongly encourage you to
-      contact us immediately and we will do our best efforts to promptly remove
-      such information from our records.
-    </p>
 
     <Typography level="h5" component="h2">
       Changes to This Privacy Policy

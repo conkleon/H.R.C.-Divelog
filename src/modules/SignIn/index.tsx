@@ -79,7 +79,7 @@ const SignIn: React.FC = () => {
     <>
       <NextSeo
         title="Sign in"
-        description="Sign in to your Diveholic account"
+        description="Sign in to your H.R.C. Divelog account"
       />
 
       <AuthLayout>

@@ -34,7 +34,7 @@ const Modal: React.FC<ModalProps> = ({ open, setOpen }) => {
             sm: "auto"
           }
         }}
-        aria-label="Learn how to install Diveholic"
+        aria-label="Learn how to install H.R.C. Divelog"
       >
         <div>
           <Steps title="iOS" icon={<Apple />} steps={iOSSteps} />

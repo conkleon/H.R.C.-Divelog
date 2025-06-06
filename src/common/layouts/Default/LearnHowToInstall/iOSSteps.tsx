@@ -2,7 +2,7 @@ import IosShareRounded from "@mui/icons-material/IosShareRounded";
 
 const iOSSteps = [
   {
-    content: "Open Diveholic using Safari"
+    content: "Open H.R.C. Divelog using Safari"
   },
   {
     content: "Tap <b>Share</b",

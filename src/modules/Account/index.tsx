@@ -211,7 +211,7 @@ const Account: React.FC = () => {
       >
         <div>
           <Link
-            href="https://github.com/franekostrowski/diveholic"
+            href="https://github.com/conkleon/H.R.C.-Divelog.git"
             target="blank"
             startDecorator={<GitHub />}
             color="neutral"
@@ -233,7 +233,7 @@ const Account: React.FC = () => {
         startDecorator={<EmailRounded />}
         sx={{ mt: 4, fontSize: "sm", color: "GrayText" }}
       >
-        Contact us at diveholic@franciszek.dev
+        Contact us at kchristopoulos@hrclifeguards.org
       </Typography>
     </Box>
   );

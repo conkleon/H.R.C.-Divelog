@@ -54,7 +54,7 @@ const Button: React.FC<LearnedHowToInstallProps> = ({
             fontWeight="xl"
             onClick={handleModalToggle}
           >
-            Learn how to install Diveholic
+            Learn how to install H.R.C. Divelog
           </MuiLink>
           <IconButton
             variant="plain"

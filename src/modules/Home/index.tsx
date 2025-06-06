@@ -80,7 +80,7 @@ const Home: React.FC = () => {
   return (
     <>
       <NextSeo
-        title="Diveholic - dive log built for the modern age"
+        title="H.R.C. Divelog"
         titleTemplate=""
         description="Online dive log built for the modern age. Beautiful, accessible, open source"
       />

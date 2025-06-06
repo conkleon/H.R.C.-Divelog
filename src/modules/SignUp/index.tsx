@@ -107,7 +107,7 @@ const SignUp: React.FC = () => {
     <>
       <NextSeo
         title="Sign up"
-        description="Start logging your dive experience by creating Diveholic account"
+        description="Start logging your dive experience by creating H.R.C. Divelog account"
       />
 
       <AuthLayout title="Create account" icon={<PersonAddRounded />}>

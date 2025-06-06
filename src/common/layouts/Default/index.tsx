@@ -81,14 +81,14 @@ const DefaultLayout: React.FC<DefaultLayoutProps> = ({ children }) => {
               sx={{ textDecoration: "none" }}
             >
               <Image
-                src="/logo.svg"
+                src="/logo.png"
                 width={48}
-                height={34}
+                height={48}
                 layout="fixed"
                 alt="Diver down flag"
               />
               <Typography level="h3" component="p" fontWeight="lg">
-                Diveholic
+                H.R.C. Divelog
               </Typography>
             </Box>
           </NextLink>
